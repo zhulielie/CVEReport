@@ -1,8 +1,4 @@
-# Class Scheduling System v1.0 has SQL injection
-
 BUG_Author：zhulielie
-
-Website source address: https://www.sourcecodester.com/php/5175/class-scheduling-system.html
 
 Vulnerability File: /online_class_scheduling_system/admin/edit_subject.php
 
